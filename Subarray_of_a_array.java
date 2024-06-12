@@ -1,6 +1,6 @@
 import java.util.*;
 /**
- * subarray_of_a_array
+ * subarray_of_an_array
  */
 class Subarray_of_a_array {
 public static void main(String[] args) {
